@@ -20,4 +20,4 @@ The user receives feedback on whether their guess is too high, too low, or corre
 - My Rating: 🌟🌟🌟🌟🌟 ( so far )
 
 ## What to expect 
-Play the game [here] (https://guess-the-number-bice-kappa.vercel.app/)
+Play the game [here](https://guess-the-number-bice-kappa.vercel.app/)
